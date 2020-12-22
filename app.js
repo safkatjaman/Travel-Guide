@@ -10,13 +10,10 @@ document.write("<br>");
 
 /* Array of friends names */
 var friendName = [
-                        "Safkat", 
-                        "Dola", 
-                        "Jaman", 
-                        "Siam", 
-                        "Farzana", 
-                        "Akter", 
-                        "Manha"
+                        prompt('Enter Your Friend Name: ' ,'Friend: 1'),
+                        prompt('Enter Your Friend Name: ' ,'Friend: 2'),
+                        prompt('Enter Your Friend Name: ' ,'Friend: 3'),
+                        prompt('Enter Your Friend Name: ' ,'Friend: 4'),
                   ]; 
 
 /* Friend Name Array Randomize */
